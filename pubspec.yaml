@@ -30,6 +30,8 @@ dependencies:
   cupertino_icons: ^1.0.0
   moneytextformfield: ^0.3.5+1
   datetime_picker_formfield: ^1.0.0
+  fl_chart: ^0.12.2
+  random_color: ^1.0.5
 
 
 dev_dependencies:
