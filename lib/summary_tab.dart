@@ -44,6 +44,7 @@ class _SummaryTabState extends State<SummaryTab> {
             });
           },
         ),
+        summary.buildChart(),
         /*IconButton(
           icon: Icon(Icons.refresh),
           onPressed: () {
